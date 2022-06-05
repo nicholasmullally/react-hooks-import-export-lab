@@ -1,4 +1,6 @@
 import React from "react";
+import username from src/components/Home.js;
+import city from src/components/Home.js;
 
 function Home() {
   return (
@@ -9,3 +11,4 @@ function Home() {
     </div>
   );
 }
+export default Home; 
